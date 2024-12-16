@@ -17,7 +17,7 @@
                 HorizontalTextAlignment="Center"
                 LineBreakMode="WordWrap"
                 MaxLines="5"
-                Text="Welcome to Forget Me Not"
+                Text="{Binding FullName}"
                 TextColor="Yellow"
                 VerticalTextAlignment="Center" />
         </VerticalStackLayout>

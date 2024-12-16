@@ -11,4 +11,6 @@ public partial class MainViewModel
 {
     [ObservableProperty]
     private string fullName;
+
+    
 }
