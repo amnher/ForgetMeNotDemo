@@ -15,6 +15,7 @@ namespace ForgetMeNotDemo.View
         {
             base.OnAppearing();
             vm.FullName = "Jesse Liberty";
+            vm.Age = "three";
         }
 
 

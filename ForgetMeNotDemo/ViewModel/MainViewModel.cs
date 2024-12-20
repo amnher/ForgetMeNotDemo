@@ -12,5 +12,6 @@ public partial class MainViewModel
     [ObservableProperty]
     private string fullName;
 
-    
+    [ObservableProperty]
+    private string age;
 }
